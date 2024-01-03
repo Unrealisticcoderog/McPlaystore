@@ -31,4 +31,3 @@ Please give this repo a star if you want to host it!
 ### if the website didnt work then use this github page : https://radmanplays.github.io/
 ### the committed pull requests on the github page may take up to 30 secs to update
 ### and also this is a google sites version of this website: https://sites.google.com/view/online-mc
-
