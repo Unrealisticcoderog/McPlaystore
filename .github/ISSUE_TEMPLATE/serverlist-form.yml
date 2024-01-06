@@ -19,11 +19,11 @@ body:
 - type: checkboxes
   attributes:
     label: replit server or 24/7 eaglercraft server?
-    description: is the eaglercraft server made in replit or a paid,24/7 host? do NOT select both options or i cant add the server to the serverlist
+    description: is the eaglercraft server made in replit or a paid, 24/7 host? do NOT select both options or i cant add the server to the serverlist
     options:
     - label: the server is made in replit
       required: false
-    - label: the server is made in an paid,24/7 host
+    - label: the server is made in an paid, 24/7 host
       required: false
 - type: textarea
   attributes:
